@@ -35,7 +35,7 @@ body {
         url('background.jpg'); 
     background-size: cover;
     background-position: center;
-    opacity: 1;
+    opacity: 1.8;
     transition: filter 0.7s cubic-bezier(0.1, 0.7, 0.1, 1), 
                 transform 0.7s cubic-bezier(0.1, 0.7, 0.1, 1);
     will-change: filter, transform;
